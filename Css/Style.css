@@ -1,0 +1,47 @@
+body{
+margin: 0;
+padding: 0px;
+}
+#Cabecalho{
+	width:100%;
+	height:100px;
+	background-color:tomato;
+}
+.iCabecalho{
+	margin-top:0%;
+	padding-top:0px;
+}
+
+#Menu{
+	width:100%;
+	height:115px;
+	background-color:blue;
+}
+
+.iMenu{
+	margin-top:10%;
+	padding-top:10px;
+}
+
+#Conteudo{
+	width:100%;
+	height:500px;
+	background-color:orange;
+}
+.iConteudo{
+	margin-top:10%;
+	padding-top:10px;
+}
+
+#Rodape{
+	width:100%;
+	height:90px;
+	background-color:tomato;
+}
+.iRodape{
+	
+	margin-top:10%;
+	padding-top:10px;
+}
+class.iRodape{padding-top:0;
+	}
